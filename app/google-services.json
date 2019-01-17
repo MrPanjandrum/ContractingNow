@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "350970928852",
+    "firebase_url": "https://contractingnow-cbc36.firebaseio.com",
+    "project_id": "contractingnow-cbc36",
+    "storage_bucket": "contractingnow-cbc36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350970928852:android:ef60a0bae66ec846",
+        "android_client_info": {
+          "package_name": "com.example.russellroxburgh.contractingnow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350970928852-f1m8s1gc3oovu4eph7o95nvoagcmnhl0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.russellroxburgh.contractingnow",
+            "certificate_hash": "d32efc982fc7407e9c68ef0ef7115e9d0f8facb0"
+          }
+        },
+        {
+          "client_id": "350970928852-4374unjofkb7jen7vfmcar6k6d782u3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk8BTSGiY7s59UywuhpnLCaPtoG06e5tA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350970928852-4374unjofkb7jen7vfmcar6k6d782u3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
